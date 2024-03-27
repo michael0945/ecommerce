@@ -1,0 +1,21 @@
+.container {
+  background-color: rgb(236, 226, 226);
+  padding: 30px;
+}
+.orders__container {
+  background-color: #ffff;
+  padding: 20px;
+}
+.orders__container h2 {
+  border-bottom: 2px solid white;
+  padding: 20px;
+}
+.ordering p {
+  padding: 12px;
+}
+.ordering img {
+  width: 100px !important;
+}
+.ordering div {
+  height: auto !important;
+}
